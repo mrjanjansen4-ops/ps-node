@@ -1,0 +1,1 @@
+export const multiply = (a, b) => console.log(a * b);
